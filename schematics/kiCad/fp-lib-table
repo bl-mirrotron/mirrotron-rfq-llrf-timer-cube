@@ -3,4 +3,6 @@
   (lib (name dmcginnis427Footprints)(type KiCad)(uri ${KIPRJMOD}/Library/dmcginnis427Footprints)(options "")(descr ""))
   (lib (name IRM-20-5)(type KiCad)(uri ${KIPRJMOD}/Library/IRM-20-5)(options "")(descr ""))
   (lib (name TeensyFootprints)(type KiCad)(uri ${KIPRJMOD}/Library/Teensy/TeensyFootprints)(options "")(descr ""))
+  (lib (name TBA_2-2411)(type KiCad)(uri ${KIPRJMOD}/Library/TBA_2-2411)(options "")(descr ""))
+  (lib (name SODFL2513X100N)(type KiCad)(uri ${KIPRJMOD}/Library/SODFL2513X100N)(options "")(descr ""))
 )

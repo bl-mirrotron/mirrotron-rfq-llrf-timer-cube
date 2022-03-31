@@ -1,4 +1,4 @@
-update=Fri 07 Feb 2020 08:49:40 AM CET
+update=Wed 30 Mar 2022 07:57:55 AM CEST
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=PowerMeterRelay.net
+LastNetListRead=mirrotron-rfq-flow-cube.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
