@@ -1,8 +1,8 @@
 (fp_lib_table
   (lib (name blinkyLiteLogo)(type KiCad)(uri ${KIPRJMOD}/Library/blinkyLiteLogo)(options "")(descr ""))
   (lib (name dmcginnis427Footprints)(type KiCad)(uri ${KIPRJMOD}/Library/dmcginnis427Footprints)(options "")(descr ""))
-  (lib (name IRM-20-5)(type KiCad)(uri ${KIPRJMOD}/Library/IRM-20-5)(options "")(descr ""))
-  (lib (name TeensyFootprints)(type KiCad)(uri ${KIPRJMOD}/Library/Teensy/TeensyFootprints)(options "")(descr ""))
-  (lib (name TBA_2-2411)(type KiCad)(uri ${KIPRJMOD}/Library/TBA_2-2411)(options "")(descr ""))
-  (lib (name SODFL2513X100N)(type KiCad)(uri ${KIPRJMOD}/Library/SODFL2513X100N)(options "")(descr ""))
+  (lib (name redPitaya)(type KiCad)(uri ${KIPRJMOD}/Library/redPitaya/redPitaya.pretty)(options "")(descr ""))
+  (lib (name pll-click)(type KiCad)(uri ${KIPRJMOD}/Library/pll-click/pll-click.pretty)(options "")(descr ""))
+  (lib (name EK-level-shifter)(type KiCad)(uri ${KIPRJMOD}/Library/EK-level-shifter/EK-level-shifter.pretty)(options "")(descr ""))
+  (lib (name 2985-6004)(type KiCad)(uri ${KIPRJMOD}/Library/2985-6004)(options "")(descr ""))
 )

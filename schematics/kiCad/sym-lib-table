@@ -1,7 +1,7 @@
 (sym_lib_table
   (lib (name dmcginnis427)(type Legacy)(uri ${KIPRJMOD}/Library/dmcginnis427Symbols/dmcginnis427.lib)(options "")(descr ""))
-  (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/Library/Teensy/symbols/teensy.lib)(options "")(descr ""))
-  (lib (name IRM-20-5)(type Legacy)(uri ${KIPRJMOD}/Library/IRM-20-5/IRM-20-5.lib)(options "")(descr ""))
-  (lib (name rpiheader)(type Legacy)(uri ${KIPRJMOD}/Library/dmcginnis427Symbols/rpiheader.lib)(options "")(descr ""))
-  (lib (name TBA_2-2411)(type Legacy)(uri ${KIPRJMOD}/Library/TBA_2-2411/TBA_2-2411.lib)(options "")(descr ""))
+  (lib (name redPitaya)(type Legacy)(uri ${KIPRJMOD}/Library/redPitaya/redPitaya.lib)(options "")(descr ""))
+  (lib (name pll-click)(type Legacy)(uri ${KIPRJMOD}/Library/pll-click/pll-click.lib)(options "")(descr ""))
+  (lib (name EK-level-shifter)(type Legacy)(uri ${KIPRJMOD}/Library/EK-level-shifter/EK-level-shifter.lib)(options "")(descr ""))
+  (lib (name 2985-6004)(type Legacy)(uri ${KIPRJMOD}/Library/2985-6004/2985-6004.lib)(options "")(descr ""))
 )

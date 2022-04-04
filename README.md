@@ -1,1 +1,1 @@
-# mirrotron-rfq-flow-cube
+# mirrotron-rfq-llrf-timer-cube
